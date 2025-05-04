@@ -5,6 +5,10 @@ from pathlib import Path
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext, CallbackQueryHandler
 import random
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -179,7 +183,13 @@ async def handle_message(update: Update, context: CallbackContext) -> None:
         await update.message.reply_text("⚠️ Comando não reconhecido. Use o teclado!")
 
 def main() -> None:
-    application = Application.builder().token("7690257340:AAFUQub6XOGQyIx7fMR1KNNqTuLpb8iUOF8").build()
+    token = os.getenv("BOT_TOKEN")
+
+    if not token:
+        raise ValueError("BOT_TOKEN não definido no arquivo .env!")
+
+    application = Application.builder().token(token).build()
+
 
     # Registro de handlers
     application.add_handler(CommandHandler("start", start))
