@@ -1,0 +1,199 @@
+{
+  "proximos_jogos": [
+    {
+      "data": "15/10/2024 19:00",
+      "campeonato": "BLAST Premier 2024",
+      "adversario": "Team Vitality",
+      "stream_oficial": "https://twitch.tv/furiatv"
+    },
+
+    {
+      "data": "18/10/2024 21:00",
+      "campeonato": "ESL Pro League S19",
+      "adversario": "MOUZ",
+      "stream_oficial": "https://twitch.tv/furiatv"
+    },
+
+    {
+      "data": "22/10/2024 18:30",
+      "campeonato": "IEM Rio 2024 - SemiFinal",
+      "adversario": "Heroic",
+      "stream_oficial": "https://twitch.tv/furiatv"
+    }
+  ],
+
+  "ultimos_jogos": [
+    {
+      "data": "10/10/2024",
+      "adversario": "NAVI",
+      "resultado": "FURIA 2-1 NAVI",
+      "estatisticas": {
+        "rating_time": 1.15,
+        "ADR": 82.4,
+        "clutches": 3
+      },
+      "melhores_momentos": "https://twitch.tv/furiatv"
+    },
+
+    {
+      "data": "08/10/2024",
+      "adversario": "G2 Esports",
+      "resultado": "FURIA 1-2 G2",
+      "estatisticas": {
+        "rating_time": 1.08,
+        "ADR": 78.9,
+        "clutches": 2
+      },
+      "melhores_momentos": "https://twitch.tv/furiatv"
+    }
+  ],
+
+ "jogadores": [
+    {
+      "nome": "yuurih",
+      "role": "Lurker/Clutcher",
+      "nacionalidade": "🇧🇷",
+      "idade": 24,
+      "curiosidade": "Detentor do recorde de dano por round (ADR) na história da FURIA - 87.9",
+      "stats": {
+        "rating": 1.18,
+        "ADR": 87.9,
+        "clutches": 15,
+        "hs_percent": "58%"
+      }
+    },
+    {
+      "nome": "KSCERATO",
+      "role": "Entry Fragger",
+      "nacionalidade": "🇧🇷",
+      "idade": 25,
+      "curiosidade": "3º melhor jogador do mundo em 2022 pela HLTV",
+      "stats": {
+        "rating": 1.24,
+        "ADR": 89.5,
+        "opening_kills": 42,
+        "hs_percent": "63%"
+      }
+    },
+    {
+      "nome": "FalleN",
+      "role": "Capitão/AWP",
+      "nacionalidade": "🇧🇷",
+      "idade": 32,
+      "curiosidade": "Único brasileiro na lista dos 20 maiores da história do CS:GO pela HLTV",
+      "stats": {
+        "rating": 1.10,
+        "awp_kills": 42,
+        "flash_assists": 18,
+        "clutches": 9
+      }
+    },
+    {
+      "nome": "molodoy",
+      "role": "Suporte/Entry",
+      "nacionalidade": "🇷🇺",
+      "idade": 19,
+      "curiosidade": "Jogador mais jovem a vencer um S-Tier tournament na história do CS2",
+      "stats": {
+        "rating": 1.08,
+        "util_damage": 1124,
+        "trade_kills": 27,
+        "grenade_kills": 13
+      }
+    },
+    {
+      "nome": "YEKINDAR",
+      "role": "Entry Fragger",
+      "nacionalidade": "🇱🇻",
+      "idade": 24,
+      "curiosidade": "Recordista europeu de opening kills em um único torneio (ESL Pro League S16)",
+      "stats": {
+        "rating": 1.15,
+        "opening_kills": 38,
+        "multikills": 16,
+        "ADR": 86.2
+      }
+    },
+    {
+      "nome": "guerri",
+      "role": "Coach",
+      "nacionalidade": "🇧🇷",
+      "idade": 30,
+      "curiosidade": "Primeiro coach brasileiro a vencer um Intel Grand Slam",
+      "stats": {
+        "estrategias_criadas": 127,
+        "winrate_como_coach": "68%"
+      }
+    }
+],
+
+  "quiz": [
+    {
+      "pergunta": "Quem era o IGL da FURIA em 2021?",
+      "opcoes": ["arT", "guerri", "VINI", "HEN1"],
+      "resposta": 0
+    },
+    {
+      "pergunta": "Quantos mapas a FURIA venceu consecutivamente em 2023?",
+      "opcoes": ["12", "15", "18", "21"],
+      "resposta": 2
+    },
+    {
+      "pergunta": "Qual o nickname do técnico da FURIA?",
+      "opcoes": ["nak", "zews", "guerri", "dead"],
+      "resposta": 2
+    },
+
+    {
+      "pergunta": "Quantos títulos a FURIA venceu em 2023?",
+      "opcoes": ["3", "5", "7", "9"],
+      "resposta": 0
+    },
+    {
+      "pergunta": "Qual mapa a FURIA mais ban?",
+      "opcoes": ["Nuke", "Anubis", "Inferno", "Vertigo"],
+      "resposta": 3
+    }
+  ],
+
+  "estatisticas_time": {
+  "rating_6_meses": 1.12,
+  "winrate": "58%",
+  "mapas": {
+    "Ancient": "67%",
+    "Mirage": "62%",
+    "Inferno": "55%",
+    "Nuke": "60%",
+    "Overpass": "50%",
+    "Vertigo": "70%"
+    }
+  },
+
+  "curiosidades": [
+    {
+      "titulo": "Primeira Final Internacional",
+      "descricao": "FURIA foi o primeiro time BR a chegar na final de um Big Event no CS:GO (ESL One NY 2019)"
+    },
+    {
+      "titulo": "Recorde de Audiência",
+      "descricao": "Jogo contra Liquid no IEM Rio teve pico de 1.3mi de espectadores"
+    },
+    {
+      "titulo": "Origem do Nome",
+      "descricao": "FURIA vem da combinação de Força e Garra, valores do time"
+    },
+    {
+      "titulo": "Furiação na Comunidade",
+      "descricao": "Primeiro time brasileiro a ultrapassar 1 milhão de seguidores no TikTok"
+    },
+    {
+      "titulo": "Bootcamp Europeu",
+      "descricao": "Equipe mantém base de treinos em Lisboa para competições internacionais"
+    }
+  ],
+
+  "redes_sociais": {
+    "twitter": "https://twitter.com/furiagg",
+    "instagram": "https://instagram.com/furiagg"
+  }
+}
