@@ -16,7 +16,7 @@ Um bot do Telegram interativo que fornece informações sobre o time de CS:GO da
 ### Pré-requisitos
 
 - Python 3.10+
-- Virtualenv (opcional, mas recomendado)
+- Virtualenv (opcional)
 
 ### Passo a passo
 
