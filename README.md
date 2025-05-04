@@ -23,7 +23,7 @@ Um bot do Telegram interativo que fornece informações sobre o time de CS:GO da
 ```bash
 # Clone o repositório
 git clone https://github.com/moabesdras/FuriaBot.git
-cd furia-cs-bot
+cd FuriaBot
 
 # Crie o ambiente virtual
 python -m venv venv
